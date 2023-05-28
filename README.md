@@ -1,5 +1,5 @@
 # React-Native-Complete-Guide
-Formation React de Maximilian Schwarzmüller, formateur 5 étoiles sur Udemy. Langues: Anglais. Vidéo: 48,5 heures au total.
+Formation React de Maximilian Schwarzmüller, formateur 5 étoiles sur Udemy. Langues: Anglais. Vidéo: 28,5 heures au total.
 LIEN VERS LA FORMATION: 
 https://www.udemy.com/course/react-native-the-practical-guide/learn/lecture/31197308#overview
 
