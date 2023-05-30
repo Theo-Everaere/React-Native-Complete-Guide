@@ -1,0 +1,37 @@
+# React Native specific
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# React Native generated files
+android/build/
+android/app/google-services.json
+android/app/src/main/assets/index.android.bundle
+android/app/src/main/assets/index.android.bundle.meta
+android/app/src/main/assets/gradle-js-bundle/
+android/app/src/main/java/com/facebook/react/generated/
+android/app/src/main/res/reactnativegenerated/
+android/app/src/main/res/drawable-mdpi/ic_launcher.png
+android/app/src/main/res/drawable-hdpi/ic_launcher.png
+android/app/src/main/res/drawable-xhdpi/ic_launcher.png
+android/app/src/main/res/drawable-xxhdpi/ic_launcher.png
+android/app/src/main/res/drawable-xxxhdpi/ic_launcher.png
+
+# IntelliJ IDEA / Android Studio specific
+.idea/
+android/.gradle/
+android/captures/
+android/local.properties
+android/gradle/
+android/app/.externalNativeBuild/
+android/app/build/
+android/gradlew
+android/gradlew.bat
+android/gradle.properties
+android/settings.gradle
+android/gradle/
+android/.idea/
+android/.cxx/
+
+# macOS specific
+.DS_Store
